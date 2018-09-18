@@ -16,3 +16,6 @@
   - partial    /'pɑːʃ(ə)l/       adj. 局部的, 部分的，[口]偏爱的
     + --> partial success. 部分的成功。
     + --> partial to detective novels. 偏爱侦探小说
+    
+#### 20180918
+  - quill /kwɪl/    n. 鹅毛笔，羽茎
