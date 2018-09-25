@@ -24,7 +24,20 @@
   - abbreviation
   - term
   
-### 20180921
+#### 20180921
   - legacy
-  -   
+  - 
+  
+#### 20180925
+  - slogan  
+  - guarantee  /ˌgærənˈti:/    n. 保证, 担保   vt. 保证, 担保 
+  - advisory   /əd'vaɪz(ə)rɪ/  adj. 咨询的, 顾问的  n. 报告, 公告
+    + --> 
+  - electrical /ɪ'lektrɪk(ə)l/ adj. 电动, 用电的
+    + --> a specialist electrical shop. 一家电器专卖店。
+  - appliance  /ə'plaɪəns/   n. 器具, 应用
+  - specialist /'speʃ(ə)lɪst/ n. 专家, 行家 
+  - classification  /ˌklæsɪfɪ'keɪʃ(ə)n/  n. 分类, 类别
+    + --> classification of items 项目分类
+  
   
