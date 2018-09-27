@@ -41,8 +41,18 @@
     + --> classification of items 项目分类
 
 #### 20180926
- - abbreviation /əbriːvɪ'eɪʃ(ə)n/  n. 缩写, 缩写词
+  - abbreviation /əbriːvɪ'eɪʃ(ə)n/  n. 缩写, 缩写词
     + --> A.D.is the abbreviation for "advertisement". A.D.是 advertisement 的缩写。
- - term /tɜːm/  n. 术语, 项, 学期.  vt. 表述, 表明
+  - term /tɜːm/  n. 术语, 项, 学期.  vt. 表述, 表明
     + --> He failed no students this term. 这学期他没有学生不及格。
     + --> the terms are often interchanged. 这些术语常互换使用。
+
+#### 20180927
+  - repair 
+  - shipping  /'ʃɪpɪŋ/  n. 航运, 船舶
+    + --> shipping repair serve 送货维修服务
+  - wrapper /'ræpə/  n. 包装纸，包皮
+    + --> Put the wrapper in the bin. 把包装纸扔进垃圾箱。
+    + --> He dropped a sweet wrapper. 他扔掉一张糖纸。
+  - evaluation /ɪˌvæljʊˈeɪʃən/  n. 评价，评估
+    + --> a critical evaluation of the film. 对电影的批判性评价。
