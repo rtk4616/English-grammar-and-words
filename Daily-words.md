@@ -56,3 +56,12 @@
     + --> He dropped a sweet wrapper. 他扔掉一张糖纸。
   - evaluation /ɪˌvæljʊˈeɪʃən/  n. 评价，评估
     + --> a critical evaluation of the film. 对电影的批判性评价。
+    
+#### 20180928
+  - installation  /ɪnstə'leɪʃ(ə)n/  n. 安装, 设备, 设置
+    + --> installation will cost about $60 extra.  安装需另加 60 美元。
+  - maintenance    /'meɪnt(ə)nəns/   n. 维修, 保养
+    + --> break down maintenance  事故检修
+  - reservation  /rezə'veɪʃ(ə)n/  n. 预约, 保留
+  - advisory  /əd'vaɪz(ə)rɪ/   adj. 咨询.  n. 报告，公告
+  - satisfaction  /sætɪs'fækʃ(ə)n/  n. 满意， 满足
