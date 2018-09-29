@@ -74,3 +74,6 @@
     + --> express way. 高速公路
     + --> I'm a little bit uncomfortable with the way that you express yourself.
     + --> express delivery 快递
+  - fetch  /fetʃ/  vt. 取来，到达.  vi. 取物，拿  n.取得
+    + --> Fetch me a glass of water. 给我拿杯水来。
+    + --> Jack fetched a towel from the bathroom;  杰克从浴室拿来一条毛巾。 
