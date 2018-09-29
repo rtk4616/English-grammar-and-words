@@ -48,7 +48,7 @@
     + --> the terms are often interchanged. 这些术语常互换使用。
 
 #### 20180927
-  - repair 
+  - repair
   - shipping  /'ʃɪpɪŋ/  n. 航运, 船舶
     + --> shipping repair serve 送货维修服务
   - wrapper /'ræpə/  n. 包装纸，包皮
@@ -56,7 +56,7 @@
     + --> He dropped a sweet wrapper. 他扔掉一张糖纸。
   - evaluation /ɪˌvæljʊˈeɪʃən/  n. 评价，评估
     + --> a critical evaluation of the film. 对电影的批判性评价。
-    
+
 #### 20180928
   - installation  /ɪnstə'leɪʃ(ə)n/  n. 安装, 设备, 设置
     + --> installation will cost about $60 extra.  安装需另加 60 美元。
@@ -65,3 +65,12 @@
   - reservation  /rezə'veɪʃ(ə)n/  n. 预约, 保留
   - advisory  /əd'vaɪz(ə)rɪ/   adj. 咨询.  n. 报告，公告
   - satisfaction  /sætɪs'fækʃ(ə)n/  n. 满意， 满足
+
+
+#### 20180929
+  - express  /ɪk'spres/ vt. 表达，表示。 adj. 特快(的)，高速(的)
+    + --> an express airmail service. 航空快件服务
+    + --> express fake emotions.  表达虚假的情感。
+    + --> express way. 高速公路
+    + --> I'm a little bit uncomfortable with the way that you express yourself.
+    + --> express delivery 快递
